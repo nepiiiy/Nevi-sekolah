@@ -1,10 +1,11 @@
 <div class="bg-dark">
     <div class="container" style="width: 75%;">
-    <div class="row mt-5">
-        <div class="col-6 mt-5">
-            <h6 class="text-white">Profile SMK Negeri 2 Trenggalek</h6>
+        <div class="row mt-5">
+            <div class="col-6 mt-5">
+                <h6 class="text-white">Profile SMK Negeri 2 Trenggalek</h6>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/yCLNvWTYrbQ?si=_92EUsGn5aeefFcC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </div>
         </div>
-    </div>
     </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
@@ -15,4 +16,5 @@
 <script src="<?= BASE_URL; ?>/js/script.js"></script>
 <script src="<?= BASE_URL; ?>/js/script1.js"></script>
 </body>
+
 </html>
